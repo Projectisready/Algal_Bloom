@@ -1,0 +1,9 @@
+# EPA datasets - downloaded separately
+data/*.csv
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
